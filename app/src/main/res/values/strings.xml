@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nano Health</string>
+    <string name="title_products">Products</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login_title">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="title_accounts">Account</string>
+    <string name="title_favourites">Favourites</string>
+    <string name="hint_password">Password</string>
+    <string name="content_description_end_icon">content_description_end_icon</string>
+    <string name="login_button_title">Continue</string>
+    <string name="login_need_help">NEED HELP?</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="product_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="product_title">Product Name</string>
+    <string name="title">Title</string>
+    <string name="_00000_aed">00000 AED</string>
+    <string name="all_products">All Products</string>
+    <string name="default_price">0000 AED</string>
+</resources>
